@@ -1,0 +1,9 @@
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\bin\Debug\Oop_Student_InfoApp.exe.config
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\bin\Debug\Oop_Student_InfoApp.exe
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\bin\Debug\Oop_Student_InfoApp.pdb
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\obj\Debug\Oop_Student_InfoApp.csprojResolveAssemblyReference.cache
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\obj\Debug\Oop_Student_InfoApp.Form1.resources
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\obj\Debug\Oop_Student_InfoApp.Properties.Resources.resources
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\obj\Debug\Oop_Student_InfoApp.csproj.GenerateResource.Cache
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\obj\Debug\Oop_Student_InfoApp.exe
+H:\atiiucProjects\17-12-2014\Oop_Student_InfoApp\Oop_Student_InfoApp\obj\Debug\Oop_Student_InfoApp.pdb

@@ -1,0 +1,9 @@
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\bin\Debug\Class_EmployeeApp.exe.config
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\bin\Debug\Class_EmployeeApp.exe
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\bin\Debug\Class_EmployeeApp.pdb
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\obj\Debug\Class_EmployeeApp.csprojResolveAssemblyReference.cache
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\obj\Debug\Class_EmployeeApp.Form1.resources
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\obj\Debug\Class_EmployeeApp.Properties.Resources.resources
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\obj\Debug\Class_EmployeeApp.csproj.GenerateResource.Cache
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\obj\Debug\Class_EmployeeApp.exe
+H:\atiiucProjects\17-12-2014\Class_EmployeeApp\Class_EmployeeApp\obj\Debug\Class_EmployeeApp.pdb
